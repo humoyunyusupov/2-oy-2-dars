@@ -124,6 +124,8 @@ body {
   background-repeat: no-repeat;
   background-position: right 15px center;
   border: 2px solid #ff7979;
+  color: #ff7979;
+  ;
 }
 .info-item:not(:placeholder-shown):not(:focus):invalid ~ .invalid-text{
   margin-top: 8px;
